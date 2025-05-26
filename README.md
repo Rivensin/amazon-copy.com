@@ -13,4 +13,4 @@ A simple copy Of Amazon E-commerce Website built with **HTML,CSS,JavaScript** to
 - **Frontend**: HTML, CSS, JavaScript  
 
 ## ⚡ Web URL
-- https://rivensin.github.io/amazon.com/
+- https://rivensin.github.io/amazon-copy.com/
